@@ -20,8 +20,10 @@ Add bootstrap-rtl.css and bootstrap-rtl.js to your project :
 Or load it from CDN:
 
 ```html
-<!-- Load Bootstrap 4.x RTL from our CDN -->
+<!-- Load Bootstrap 4.x RTL CSS from our CDN -->
 <link rel="stylesheet" href="//cdn.xxxxx">
+
+<!-- Load Bootstrap 4.x RTL JS from our CDN -->
 <Script src="//cdn.xxx"></Script>
 ```
 
@@ -30,7 +32,7 @@ Or load it from CDN:
 
 ### Feature requests, and bug fixes
 
-If you want a feature or a bug fixed, [report it via project's issues tracker](https://github.com/morteza/bootstrap-rtl/issues). However, if it's something you can fix yourself, *fork* the project, *do* whatever it takes to resolve it, and finally submit a *pull* request. I will personally thank you, and add your name to the list of contributors.
+If you want a feature or a bug fixed, [report it via project's issues tracker](https://github.com/SahraCompany/Bootstrap-4.x-RTL/issues). However, if it's something you can fix yourself, *fork* the project, *do* whatever it takes to resolve it, and finally submit a *pull* request. I will personally thank you, and add your name to the list of contributors.
 
 ## Author
 
