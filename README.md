@@ -36,13 +36,13 @@ If you want a feature or a bug fixed, [report it via project's issues tracker](h
 
 ## Author
 
-**Sahra-Soft Company** [http://github.com/SahraCompany](http://github.com/SahraCompany)
+- **Sahra-Soft Company** [http://github.com/SahraCompany](http://github.com/SahraCompany)
 
-> **Mohammad Ramezani** [http://github.com/mohammadramezani](http://github.com/mohammadramezani) 
+  - **Mohammad Ramezani** [http://github.com/mohammadramezani](http://github.com/mohammadramezani) 
 
-> **Mahnoosh Mahdavi** [http://github.com/mmahdavi2018](http://github.com/mmahdavi2018)
+  - **Mahnoosh Mahdavi** [http://github.com/mmahdavi2018](http://github.com/mmahdavi2018)
 
-> **Meghdad Ansari** [http://github.com/meghdad0072000](http://github.com/meghdad0072000)
+  - **Meghdad Ansari** [http://github.com/meghdad0072000](http://github.com/meghdad0072000)
 
 
 
