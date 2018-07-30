@@ -3,7 +3,8 @@
 ## ***Note: this version of bootstrap add full rtl support to bootstrap 4.1.3***
 
 
-> Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.## ***As we were trying to change CSS and JS to be RTL we pass some steps***
+> Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+## ***As we were trying to change CSS and JS to be RTL we pass some steps***
 
 
 #### ***Follow these steps to have RTL CSS:***
