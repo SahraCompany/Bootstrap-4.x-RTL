@@ -20,7 +20,7 @@ but this generator makes some wrong decisions,to find these, we compare generate
 
 #### ***Follow these steps to have RTL JS:***
 
-- In Bootstrap.js,just we have to change Dropdown displaying direction
+- In Bootstrap.js , just we have to change Dropdown displaying direction
 
 
 Add bootstrap-rtl.css and bootstrap-rtl.js to your project :
