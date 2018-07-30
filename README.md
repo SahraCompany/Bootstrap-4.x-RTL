@@ -8,9 +8,9 @@
 
 #### ***Follow these steps to have RTL CSS:***
 
-- First of all we download bootstrap version 4.0.0 from [https://getbootstrap.com] (https://getbootstrap.com)
+- First of all we download bootstrap version 4.0.0 from [https://getbootstrap.com](https://getbootstrap.com)
 
-- Then we get RTL bootstrap version 4.0.0 from [http://bootstrap.rtlcss.com] (http://bootstrap.rtlcss.com),this css file have been created by Mohammad Younes and works well
+- Then we get RTL bootstrap version 4.0.0 from [http://bootstrap.rtlcss.com](http://bootstrap.rtlcss.com),this css file have been created by Mohammad Younes and works well
 
 - There is a CSS RTL generator in [http://rtlcss.com . you can put your not right to lefted styles in one side and get rtl styles in other side , we want to use this generator for all version of bootstrap 
 but this generator makes some wrong decisions,to find these, we compare generated css file,line by line with Mohammad Younes created css file,so we find the critical points that are wrong in generator
